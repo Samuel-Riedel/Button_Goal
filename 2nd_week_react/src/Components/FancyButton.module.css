@@ -1,0 +1,19 @@
+.fancyButton {
+    padding: 12px 24px;
+    border: none;
+  }
+  
+  .primaryButton {
+    background-color: green;
+    color: white;
+  }
+  
+  .secondaryButton {
+    border: 1px solid black;
+    color: green;
+  }
+
+  .thirdButton {
+    border: 1px solid rgb(255, 5, 5);
+    color: rgb(226, 91, 12);
+  }
